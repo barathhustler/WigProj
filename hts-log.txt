@@ -1,0 +1,119 @@
+HTTrack3.49-2 launched on Sun, 03 Mar 2024 23:17:43 at https://www.haircoatbd.com/ none none
+(winhttrack https://www.haircoatbd.com/ -O "/Users/barath/websites/WigProj" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:19:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+23:19:37	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link none/ (from primary/primary)
+23:23:30	Error: 	"Not Found" (404) at link https://www.haircoatbd.com/about-hair-coat/ (from https://www.haircoatbd.com/)
+23:24:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3610
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3610 to https://www.haircoatbd.com/wig-manufacturers/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3614
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3614 to https://www.haircoatbd.com/mission-vission/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3617
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3617 to https://www.haircoatbd.com/our-philosophy/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3618
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3618 to https://www.haircoatbd.com/hair-color-chart/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3620
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3620 to https://www.haircoatbd.com/density-chart/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3616
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3616 to https://www.haircoatbd.com/curl-ring/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3628
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3628 to https://www.haircoatbd.com/bleached-knots/
+23:24:15	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3632
+23:24:15	Warning: 	File has moved from https://www.haircoatbd.com/?p=3632 to https://www.haircoatbd.com/base-design/
+23:24:51	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3629
+23:24:51	Warning: 	File has moved from https://www.haircoatbd.com/?p=3629 to https://www.haircoatbd.com/after-sales-service/
+23:24:51	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=378
+23:24:51	Warning: 	File has moved from https://www.haircoatbd.com/?p=378 to https://www.haircoatbd.com/contact/
+23:24:51	Error: 	"Not Found" (404) at link https://www.haircoatbd.com/contact/www.Facebook.com/HairCoatBangladesh/ (from https://www.haircoatbd.com/contact/)
+23:24:51	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3853
+23:24:51	Warning: 	File has moved from https://www.haircoatbd.com/?p=3853 to https://www.haircoatbd.com/cart/
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3824
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/?p=3824 to https://www.haircoatbd.com/custom-hairpiece-wig-base-options/
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3639
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/?p=3639 to https://www.haircoatbd.com/custom-wig-order-form/
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3640
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/?p=3640 to https://www.haircoatbd.com/hair-care/
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3841
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/?p=3841 to https://www.haircoatbd.com/why-hair-coat/
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3808
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/?p=3808 to https://www.haircoatbd.com/latest-haircoat-bd-news/
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/author/rootyourmail-com/
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/author/rootyourmail-com/ to https://www.haircoatbd.com
+23:24:54	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3811
+23:24:54	Warning: 	File has moved from https://www.haircoatbd.com/?p=3811 to https://www.haircoatbd.com/latest-haircoat-bd-news-1/
+23:24:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+23:28:32	Warning: 	Moved Permanently for https://www.haircoatbd.com/product-category/hairpiece-base-designs/page/1/
+23:28:32	Warning: 	File has moved from https://www.haircoatbd.com/product-category/hairpiece-base-designs/page/1/ to https://www.haircoatbd.com/product-category/hairpiece-base-designs/
+23:28:32	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3857
+23:28:32	Warning: 	File has moved from https://www.haircoatbd.com/?p=3857 to https://www.haircoatbd.com/product/hc-01/
+23:28:32	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3858
+23:28:32	Warning: 	File has moved from https://www.haircoatbd.com/?p=3858 to https://www.haircoatbd.com/product/hc-02/
+23:28:32	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3924
+23:28:32	Warning: 	File has moved from https://www.haircoatbd.com/?p=3924 to https://www.haircoatbd.com/product/hc-03/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3926
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3926 to https://www.haircoatbd.com/product/hc-04/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3928
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3928 to https://www.haircoatbd.com/product/hc-07/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3929
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3929 to https://www.haircoatbd.com/product/hc-10/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3932
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3932 to https://www.haircoatbd.com/product/hc-11/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3933
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3933 to https://www.haircoatbd.com/product/hc-12/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3939
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3939 to https://www.haircoatbd.com/product/hc-13/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3934
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3934 to https://www.haircoatbd.com/product/hc-14/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3935
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3935 to https://www.haircoatbd.com/product/hc-15/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3936
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3936 to https://www.haircoatbd.com/product/hc-16/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3882
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3882 to https://www.haircoatbd.com/product/hc-101/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3891
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3891 to https://www.haircoatbd.com/product/hc-102/
+23:28:38	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3890
+23:28:38	Warning: 	File has moved from https://www.haircoatbd.com/?p=3890 to https://www.haircoatbd.com/product/hc-103/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/product-category/wig-base-designs/page/1/
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/product-category/wig-base-designs/page/1/ to https://www.haircoatbd.com/product-category/wig-base-designs/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3889
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3889 to https://www.haircoatbd.com/product/hc-201/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3888
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3888 to https://www.haircoatbd.com/product/hc-202/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3887
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3887 to https://www.haircoatbd.com/product/hc-203/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3886
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3886 to https://www.haircoatbd.com/product/hc-204/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3885
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3885 to https://www.haircoatbd.com/product/hc-205/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3884
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3884 to https://www.haircoatbd.com/product/hc-206/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3883
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3883 to https://www.haircoatbd.com/product/hc-207/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3917
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3917 to https://www.haircoatbd.com/product/hc-208/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3918
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3918 to https://www.haircoatbd.com/product/hc-209/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3919
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3919 to https://www.haircoatbd.com/product/hc-210/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3920
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3920 to https://www.haircoatbd.com/product/hc-211/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3921
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3921 to https://www.haircoatbd.com/product/hc-212/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3937
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3937 to https://www.haircoatbd.com/product/hc-17/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3938
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3938 to https://www.haircoatbd.com/product/hc-18/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3923
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3923 to https://www.haircoatbd.com/product/hc-214/
+23:28:44	Warning: 	Moved Permanently for https://www.haircoatbd.com/?p=3922
+23:28:44	Warning: 	File has moved from https://www.haircoatbd.com/?p=3922 to https://www.haircoatbd.com/product/hc-213/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 1 seconds : 699 links scanned, 641 files written (40493878 bytes overall) [32058927 bytes received at 48500 bytes/sec], 12290201 bytes transferred using HTTP compression in 343 files, ratio 27%, 13.2 requests per connection
+(4 errors, 104 warnings, 0 messages)
